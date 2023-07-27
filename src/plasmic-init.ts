@@ -1,5 +1,6 @@
 import { initPlasmicLoader } from "@plasmicapp/loader-react";
 import { HelloWorld } from "./components/HelloWorld";
+
 export const PLASMIC = initPlasmicLoader({
   projects: [
     {
